@@ -1,0 +1,1 @@
+./Release/main.cpp.o ./Release/Window.cpp.o ./Release/Circle.cpp.o ./Release/Entity.cpp.o ./Release/Rectangle.cpp.o ./Release/Polygon.cpp.o
